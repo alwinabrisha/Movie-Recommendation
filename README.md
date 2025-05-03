@@ -64,20 +64,11 @@ Alwina – Front-end and GitHub Manager
 
 
 
----
-
 Acknowledgment
 
 This project was built as part of the Nan Mudhalvan program to gain hands-on experience in data-driven application development. It helped us understand the fundamentals of recommendation systems, teamwork, and project deployment.
 
 
----
-
 License
 
 This project is for educational purposes. Feel free to explore and enhance it!
-
----
-
-Let me know your team members' names and I’ll fill them in for you. Would you like a project logo or cover image suggestion for GitHub too?
-
